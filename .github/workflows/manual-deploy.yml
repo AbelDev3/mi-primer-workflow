@@ -1,7 +1,7 @@
 name: Deploy Manual
 
 on:
-  workflow_dispatch:            # Trigger manual
+  workflow_dispatch:            # Trigger manual - AAN
     inputs:
 
       ambiente:                  # Input tipo selección
